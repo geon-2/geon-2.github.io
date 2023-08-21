@@ -50,8 +50,8 @@ repo: jasper
 branch: master
 relative_source: ../jasper/
 destination: ../jasper-pages/
-production_url:  https://jekyllt.github.io/jasper/
-source_url:  https://github.com/jekyllt/jasper/
+production_url:  https://geon-2.github.io/
+source_url:  https://github.com/geon-2/geon-2.github.io/
 
 exclude:
   - README.md
