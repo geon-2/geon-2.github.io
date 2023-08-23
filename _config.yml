@@ -45,9 +45,9 @@ plugins: [jekyll-paginate]
 # or "master" otherwise
 safe: false
 lsi: false
-username: jekyllt
+username: gunle0146
 repo:
-branch: master
+branch: main
 relative_source: ../
 destination: ../
 production_url:  https://geon-2.github.io/
