@@ -46,7 +46,7 @@ plugins: [jekyll-paginate]
 safe: false
 lsi: false
 username: jekyllt
-repo: jasper
+repo:
 branch: master
 relative_source: ../
 destination: ../
