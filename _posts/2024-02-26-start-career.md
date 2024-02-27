@@ -5,7 +5,7 @@ subtitle: 개발자로써 커리어를 쌓는 방법들
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [career, development]
+tags: [development, career]
 ---
 
 커리어 기반을 다지기 위함을 목표로 신청한 휴학 학기가 시작되기 일주일 전인 지금 아직도 정신 못차린 채 침대 위해서 뒹굴며 유튜브만 쳐 보고 있는 도파민 중독자의 삶을 살고 있다. 몇 일 전에 지원한 연합 동아리에서 1차 서류 탈락을 하고 충격을 먹은 채 정처없이 에브리타임만 드려다보던 와중에 한 의문이 들었다.
