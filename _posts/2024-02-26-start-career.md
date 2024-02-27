@@ -2,9 +2,9 @@
 layout: post
 title: 개발 블로그를 시작하면서
 subtitle: 개발자로써 커리어를 쌓는 방법들
-cover-img: /assets/img/cover/running.jpeg
+cover-img: /assets/img/cover/running.jpg
 thumbnail-img: /assets/img/thumb/sprout.png
-share-img: /assets/img/cover/running.jpeg
+share-img: /assets/img/cover/running.jpg
 tags: [development, career]
 ---
 
