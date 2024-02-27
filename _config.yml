@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Geon's Warehouse
+title: Geon Lee
 
 # Your name to show in the footer
 author: Geon Lee
@@ -21,6 +21,9 @@ author: Geon Lee
 
 navbar-links:
   About Me: "aboutme"
+  Resources:
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
 
 ################
 # --- Logo --- #
