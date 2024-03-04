@@ -5,6 +5,7 @@ subtitle: 개발자로써 커리어를 쌓는 방법들
 cover-img: /assets/img/cover/running.jpg
 thumbnail-img: /assets/img/thumb/sprout.png
 share-img: /assets/img/cover/running.jpg
+published: false
 tags: [development, career]
 ---
 

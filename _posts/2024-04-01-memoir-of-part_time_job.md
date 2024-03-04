@@ -2,6 +2,7 @@
 layout: post
 title: 알바를 마치며
 subtitle: 인생 첫 알바에 대한 회고록
+published: false
 tags: [life]
 ---
 
